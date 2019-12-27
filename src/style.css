@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./SoulOfYou.ttf') format('ttf'),
+       url('./CrunchyPasta-8MMoz.otf') format('otf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: pink;
+  font-family: 'MyFont';
+}
